@@ -11,4 +11,4 @@
 ## Resultados
 1. Uma quantia de 0.05 SepoliaETH, foi inserida na conta da carteira Metamask, usando [Google Cloud Web3](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
 2. Uma conta criada na Open Sea Testnet, criado uma Coleção para o NFT visto [aqui](https://github.com/izaque459/Projeto_NFT/blob/main/Conta_OpenSea_Testnet.png)
-3. Transferido a para conta mostrada no desafio visto [aqui]().
+3. Transferido a para conta mostrada no desafio visto [aqui](https://github.com/izaque459/Projeto_NFT/blob/main/Conta_Destino.png).
